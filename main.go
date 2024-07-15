@@ -22,7 +22,7 @@ func main() {
 	}
 	soccerProducts := map[string]float64{
 		"Soccer Ball": 19.50,
-		"Stadium":     79500,
+		"Stadium":     80000,
 	}
 
 	waterCalc := priceCalcFactory(100, 0.2)
